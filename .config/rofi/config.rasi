@@ -3,5 +3,5 @@ configuration {
   icon-theme: "Papirus-Breeze-Custom";
 }
 
-@theme "/home/alcadramin/.config/rofi/launchers/style.rasi"
+@theme "/home/mrh0wl/.config/rofi/launchers/style.rasi"
 

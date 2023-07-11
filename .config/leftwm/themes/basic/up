@@ -29,5 +29,5 @@ xfce4-power-manager
 numlockx on
 /usr/libexec/polkit-gnome-authentication-agent-1 &
 /usr/libexec/xfce4/notifyd/xfce4-notifyd &
-/usr/bin/sh -c /home/alcadramin/.config/xrandr.sh
+/usr/bin/sh -c /home/mrh0wl/.config/xrandr.sh
 

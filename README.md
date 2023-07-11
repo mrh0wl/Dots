@@ -25,7 +25,7 @@ Details of my setup..
 
 #
 
-### How to install? <img alt="" align="right" src="https://flat.badgen.net/github/issues/alcadramin/dots"/><img alt="" align="right" src="https://flat.badgen.net/github/stars/alcadramin/dots"/>
+### How to install? <img alt="" align="right" src="https://flat.badgen.net/github/issues/mrh0wl/dots"/><img alt="" align="right" src="https://flat.badgen.net/github/stars/mrh0wl/dots"/>
 
 <a href="https://i.imgur.com/mZO9Jg8.png">
   <img src="https://i.imgur.com/mZO9Jg8.png" alt="emacs" align="right" width="400px"/>

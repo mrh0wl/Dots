@@ -42,7 +42,7 @@ keys = [
     Key(
         [mod, "shift"],
         "p",
-        lazy.spawn(os.path.expanduser("/home/alcadramin/.config/rofi/scripts/powermenu.sh")),
+        lazy.spawn(os.path.expanduser("/home/mrh0wl/.config/rofi/scripts/powermenu.sh")),
         desc="Rofi powermenu",
     ),
     Key(

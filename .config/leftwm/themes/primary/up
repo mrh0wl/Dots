@@ -19,7 +19,7 @@ do
 done
 
 # Start my apps
-/usr/bin/sh -c /home/alcadramin/.config/xrandr.sh
+/usr/bin/sh -c /home/mrh0wl/.config/xrandr.sh
 picom -b --experimental-backends
 xfce4-power-manager
 numlockx on &

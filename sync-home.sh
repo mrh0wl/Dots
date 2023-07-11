@@ -29,5 +29,5 @@ while read -r DEST; do
     fi
 done < "$TEMP"
 
-#cp -R home/alcadramin/* .
+#cp -R home/mrh0wl/* .
 #rm -r home/
